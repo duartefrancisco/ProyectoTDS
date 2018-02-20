@@ -11,7 +11,7 @@ Francisco José Duarte Osorio - 17001004
 
 Características del proyecto
 ============================
--Ingreso de la información mediante formulairos
--Contización en PDF
+- Ingreso de la información mediante formulairos
+- Contización en PDF
 
 
